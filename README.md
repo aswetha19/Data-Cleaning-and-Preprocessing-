@@ -1,5 +1,6 @@
-# Data-Cleaning-and-Preprocessing
-This repository demonstrates data cleaning and preprocessing of a medical appointment dataset using Python (Pandas). The goal is to prepare raw data for analysis and machine learning by handling missing values, fixing data types, and standardizing formats.
+Data Cleaning and Preprocessing – Medical Appointment Dataset
+This repository demonstrates data cleaning and preprocessing of a medical appointment dataset using Python (Pandas).
+The goal is to prepare raw data for analysis and machine learning by handling missing values, fixing data types, and standardizing formats.
 
 Dataset Overview
 Rows: 110,527
@@ -33,3 +34,5 @@ Deliverables
 Jupyter Notebook: data cleaning and preprocessing.ipynb
 
 Cleaned CSV: Day-1_cleaned.csv
+
+
